@@ -23,7 +23,7 @@ function App() {
     <>
      <div className='container'>
       <h1>"{quoto}"</h1>
-      <button onClick={handleClick}>genrate</button>
+      <button onClick={handleClick}>proverbs generator</button>
      </div>
     </>
   )
